@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello! My name is Ouima. I am looking forward to learning to code. I am a beginner so take it easy on me please :-)
 
 <!--
 **ouima2021/ouima2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
