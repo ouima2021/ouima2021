@@ -1,4 +1,4 @@
-Hello! My name is Ouima (she/her). I have recently completed a software bootcamp through LaunchCode. Over the past several months I have learned so much about JavaScript, Java, HTML, CSS, Thymeleaf, Spring Boot and more! It's all very exciting and challenging, but I am up for it. I look forward to learning more languages as well as becoming expert-level in the languages of which I am now familiar. 
+Hello! My name is Ouima (she/her). Over the past several months I have learned so much about JavaScript, Java, HTML, CSS, Thymeleaf, Spring Boot and more! It's all very exciting and challenging, but I am up for it. I look forward to learning more languages as well as becoming expert-level in the languages of which I am now familiar. 
 
 Welcome! 
 
