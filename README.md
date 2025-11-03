@@ -1,4 +1,4 @@
-Hello! My name is Ouima (she/her). Over the past several months I have learned so much about JavaScript, Java, HTML, CSS, Thymeleaf, Spring Boot and more! It's all very exciting and challenging, but I am up for it. I look forward to learning more languages as well as becoming expert-level in the languages of which I am now familiar. 
+Hello! My name is Ouima (she/her). I began my journey into tech by learning about JavaScript, Java, HTML, CSS, Thymeleaf, Spring Boot. From there, I was assigned to a team dedicated to setting up an AWS enterprise environment. After that, I entered into the world of DevSecOps where I currently reside! It's all very exciting and challenging, but I am up for it. I look forward to learning more about contanerization, orchaestration and automation. 
 
 Welcome! 
 
